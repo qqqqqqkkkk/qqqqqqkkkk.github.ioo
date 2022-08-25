@@ -2,6 +2,8 @@
 layout: post
 title: 记录一下git初始化本地仓库以及关联到远程仓库
 share-img: /assets/img/one.png
+tags: [question]
+comments: true
 ---
 ## 动机
 主要是之前记录的博客都感觉写的不咋地，想着重新建一个git仓库并且重新用这个仓库写博客，可是却忘了git的操作了，所以来记录一下，以免以后忘记
