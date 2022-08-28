@@ -1,7 +1,8 @@
 ---
 layout: post
 title: 记录一下git初始化本地仓库以及关联到远程仓库
-share-img: /assets/img/one.png
+cover-img: /assets/img/one.jpg
+share-img: /assets/img/one.jpg
 tags: [question]
 comments: true
 subtitle: record
