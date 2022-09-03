@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Java复习之路01
-subtitle: 我应该踏实下来
+title: Java数组
+subtitle: Java01
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
-tags: [books, test]
+tags: [Java]
 ---
 ​​
 # Java基础
